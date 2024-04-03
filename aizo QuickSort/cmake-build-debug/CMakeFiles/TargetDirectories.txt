@@ -1,0 +1,4 @@
+C:/Users/arsen/Desktop/Studak/Labs/4 sem/aizo/cmake-build-debug/CMakeFiles/aizo.dir
+C:/Users/arsen/Desktop/Studak/Labs/4 sem/aizo/cmake-build-debug/CMakeFiles/program.dir
+C:/Users/arsen/Desktop/Studak/Labs/4 sem/aizo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/arsen/Desktop/Studak/Labs/4 sem/aizo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
