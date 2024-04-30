@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/arsen/Desktop/Studak/Labs/4 sem/aizo
+# Install script for directory: C:/Users/arsen/Desktop/Studak/Labs/4 sem/aizo QuickSort
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/arsen/Desktop/Studak/Labs/4 sem/aizo/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/arsen/Desktop/Studak/Labs/4 sem/aizo QuickSort/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
