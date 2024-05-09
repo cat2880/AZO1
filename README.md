@@ -1,4 +1,4 @@
-# Project "AIZO SORTING METHODS COMPARE"
+# Project "AIZO QuickSort"
 
 # Project "Project Name"
 
